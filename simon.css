@@ -1,0 +1,40 @@
+.btn
+{
+    height: 100px;
+    width: 100px;
+    border: 5px solid black;
+    margin: 1rem;
+    border-radius: 30%;
+}
+.btn-contain
+{
+    display: flex;
+    justify-content: center;
+}
+body{
+    text-align: center;
+}
+.red
+{
+    background-color: red;
+}
+.yellow
+{
+    background-color:yellow;
+}
+.green
+{
+    background-color:green;
+}
+.purple
+{
+    background-color:purple;
+}
+.Gflash
+{
+    background-color: white;
+}
+.Uflash
+{
+    background-color:blue;
+}
